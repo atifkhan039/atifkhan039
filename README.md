@@ -86,8 +86,8 @@
 
 ## 🌐 Connect With Me
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atif-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-atif-khanit/)  
-* [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sardaratif039@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atif-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-atif-khanit/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sardaratif039@gmail.com)
 
 ---
 
