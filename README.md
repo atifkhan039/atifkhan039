@@ -6,8 +6,8 @@
 
 ## 🧠 About Me
 
-* 💼 4+ years of experience building scalable web applications
-* 🏗️ Strong in system design, microservices, and multi-tenant architectures
+* 💼 5+ years of experience building scalable web applications
+* 🏗️ Strong in system design, and multi-tenant architectures
 * ⚡ Focused on performance optimization, clean architecture & DX
 * 🔍 Love solving complex problems and debugging deep issues
 * 📍 Based in Pakistan
@@ -26,7 +26,7 @@
 ### ⚙️ Backend
 
 * Node.js / Express.js
-* NestJS (Microservices, DI, Interceptors, Guards)
+* NestJS
 * REST APIs & GraphQL
 
 ### 🗄️ Databases
@@ -37,15 +37,21 @@
 ### ☁️ DevOps & Cloud
 
 * AWS (EC2, S3)
+* Hostinger VPS
+* Hertzner VPS
+* Domain Mapping
 * Docker
 * CI/CD Pipelines
 
 ### ⚡ Tools
 
 * Git & GitHub
+* Cursor
+* Antigravity
 * Postman
 * pgAdmin
 * VS Code
+
 
 ---
 
@@ -80,8 +86,8 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/muhammad-atif-khanit/
-* 📧 Email: sardaratif039@gmail.com (mailto:your@email.com)
+* 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atif-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-atif-khanit/)  
+* 📧 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sardaratif039@gmail.com)
 
 ---
 
