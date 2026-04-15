@@ -78,22 +78,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan039\&show_icons=true\&theme=radical)
-
----
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifkhan039\&layout=compact\&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/muhammad-atif-khanit/
-* 📧 Email: sardaratif039@gmail.com(mailto:your@email.com)
+* 📧 Email: sardaratif039@gmail.com (mailto:your@email.com)
 
 ---
 
