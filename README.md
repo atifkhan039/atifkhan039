@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Muhammad Atif
 
-🚀 Senior Full Stack Engineer | MERN | Next.js | NestJS | TypeScript
+🚀 Senior Full Stack Engineer | MERN | Next.js | NestJS | TypeScript | AI-Assisted Development
 
 ---
 
 ## 🧠 About Me
 
-* 💼 5+ years of experience building scalable web applications
+* 💼 6+ years of experience building scalable web applications
 * 🏗️ Strong in system design, and multi-tenant architectures
 * ⚡ Focused on performance optimization, clean architecture & DX
 * 🔍 Love solving complex problems and debugging deep issues
@@ -22,17 +22,26 @@
 * Next.js (App Router, SSR, SSG, ISR)
 * Tailwind CSS
 * Redux Toolkit
+* Tailwind CSS
+* Material UI
+* shadcn/ui
+* HTML5 & CSS3
+
 
 ### ⚙️ Backend
 
 * Node.js / Express.js
 * NestJS
-* REST APIs & GraphQL
+* REST APIs
+* GraphQL
+* WebSockets
 
 ### 🗄️ Databases
 
 * PostgreSQL (Indexing, Optimization)
 * MongoDB (Aggregation, Lookup pipelines)
+* Supabase
+* Firebase
 
 ### ☁️ DevOps & Cloud
 
@@ -52,36 +61,68 @@
 * pgAdmin
 * VS Code
 
+---
+
+## 🚀 Impact & Systems Built
+
+### 🔷 WaveCard
+**NFC-Powered Digital Business Card Platform**
+
+A full-stack mobile-first networking platform where users share digital business cards via NFC tap. Built real-time contact sync so updates propagate instantly across all connected users.
+
+**Impact**
+* 2,000+ active users onboarded at launch  
+* Sub-200ms API response time under concurrent mobile load  
+* Real-time sync across all devices via Socket.io  
 
 ---
 
-## 🔥 Featured Projects
+### 🏢 NESL IT Corporate Platform
+**High-Performance Corporate Web Presence**
 
-### 🧑‍💼 HR Automation Tool
+Engineered a corporate platform with headless CMS capabilities where non-technical teams manage content via Supabase without developer dependency. Focused heavily on SSR/SSG optimization.
 
-> Centralized onboarding, contracts, compliance tracking system
-
-* Built with React + SmartSuite + Automations
-* Automated contract generation & reminders
-* Role-based onboarding workflows
-
----
-
-### 🔍 Scalable Product Search System
-
-* Elasticsearch-based search
-* Redis caching layer
-* Kafka-based sync architecture
-* Built using Node.js & MongoDB
+**Impact**
+* 95+ Lighthouse performance score across all pages  
+* Sub-2-second load times on 3G networks  
+* Zero developer involvement for content updates  
 
 ---
 
-### 🎨 Canvas Drawing Tool
+### 🎓 SmartSchool
+**Multi-Tenant School Website Builder (SaaS)**
 
-* Built with Fabric.js
-* Supports multiple brush types, zoom, opacity & eraser
-* Integrated with backend image upload (S3)
+White-label SaaS platform allowing schools to launch fully branded websites using modular templates in hours. Solved complex cross-browser and accessibility challenges at scale.
 
+**Impact**
+* 50+ educational institutions live on the platform  
+* Reduced time-to-launch from weeks to hours  
+* WCAG 2.1 AA compliance across major browsers  
+
+---
+
+### 🏢 Dorpee
+**Real-Time Workspace Rental & Discovery Platform**
+
+A marketplace connecting remote workers with on-demand workspace venues. Integrated Google Maps and built real-time availability systems with a focus on UX optimization.
+
+**Impact**
+* 20% increase in user engagement  
+* 15% reduction in bounce rate through UX improvements  
+
+---
+
+## 📈 Core Expertise
+
+Built several enterprise SaaS platforms including:
+
+* Multi-Tenant SaaS Applications
+* Admin dashboards
+* Role-based access control (RBAC)
+* Authentication & authorization
+* Subscription management
+* Reporting dashboards
+  
 ---
 
 ## 🌐 Connect With Me
